@@ -22,11 +22,12 @@ class MyMainActivity : AppCompatActivity() {
 
             if(username == usr && password == pwd) {
                 Toast.makeText(this, "Welcome :)", Toast.LENGTH_SHORT).show();
-                val intent = Intent(this, CharacterInfoActivity::class.java);
+                val intent = Intent(this, CharacterSelectionActivity::class.java);
                 this.startActivity(intent);
             } else {
                 Toast.makeText(this, "Wrong username or password", Toast.LENGTH_SHORT).show();
             }
         }
     }
+
 }
