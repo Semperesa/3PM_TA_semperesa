@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Batman",
+    "realName": "Bruce Wayne",
+    "role": "Hero",
+    "imageURL": ""
+  },
+  {
+    "name": "Gordon",
+    "realName": "James W. Gordon",
+    "role": "Hero",
+    "imageURL": ""
+  },
+  {
+    "name": "Scarecrow",
+    "realName": "Jonathan Krane",
+    "role": "Villain",
+    "imageURL": ""
+  },
+  {
+    "name": "Arkham Knight",
+    "realName": "Jason Tod",
+    "role": "Villain",
+    "imageURL": ""
+  },
+  {
+    "name": "Joker",
+    "realName": "Unknown",
+    "role": "Villain",
+    "imageURL": ""
+  }
+]

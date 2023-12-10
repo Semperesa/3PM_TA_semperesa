@@ -4,4 +4,6 @@
     <string name="username_hint">Username</string>
     <string name="password_hint">Password</string>
     <string name="login_button">Log In</string>
+    <string name="image_content_description">Game Character</string>
+    <string name="characters_fragment">Batman Characters</string>
 </resources>
