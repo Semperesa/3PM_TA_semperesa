@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">semperesaAndroid</string>
+    <string name="title_activity_my_main">MyMainActivity</string>
 </resources>
