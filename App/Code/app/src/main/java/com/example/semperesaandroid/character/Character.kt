@@ -5,4 +5,5 @@ data class Character(
     val realName: String,
     val role: String,
     val imageURL: String,
+    val description: String,
 )
