@@ -16,14 +16,8 @@ class CharacterAdapter(private val characters: List<Character>, private val list
             // Set the character name to the TextView
             view.findViewById<TextView>(R.id.characterName).text = character.name
 
-            // Set the character real name to the TextView
-            view.findViewById<TextView>(R.id.characterRealName).text = character.realName
-
-            // Set the character role to the TextView
-            view.findViewById<TextView>(R.id.characterRole).text = character.role
-
             // Get the ImageView reference
-            val imageView = view.findViewById<ImageView>(R.id.characterImage)
+            val imageView = view.findViewById<ImageView>(R.id.characterListImage)
 
             // Check if the imageURL is empty or null
             if(character.imageURL.isEmpty()) {

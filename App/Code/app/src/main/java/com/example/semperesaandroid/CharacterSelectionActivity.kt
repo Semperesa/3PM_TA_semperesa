@@ -21,13 +21,14 @@ class CharacterSelectionActivity : AppCompatActivity(), CharacterSelectionListen
         editor.apply()
 
         // Toast
-        Toast.makeText(this, "Selected: ${character.name}", Toast.LENGTH_LONG).show()
+        Toast.makeText(this, character.name, Toast.LENGTH_LONG).show()
 
         //Intent
         val intent = Intent(this, CharacterInfoActivity::class.java).apply {
             putExtra("character_name", character.name)
             putExtra("character_real_name", character.realName)
             putExtra("character_role", character.role)
+            putExtra("character_description", character.description)
         }
         this.startActivity(intent)
     }
