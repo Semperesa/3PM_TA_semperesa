@@ -1,107 +1,107 @@
 [
   {
+    "description": "Batman, √°lter ego de Bruce Wayne, es el personaje principal de los videojuegos de la serie Arkham. Es un experto en combate cuerpo a cuerpo derrotando a varios matones, soldados, o expertos en combate mano a mano sin ser golpeado utilizando una gran variedad de ataques, contraataques o aturdi√©ndolos, teniendo una t√©cnica amplia en sus desplazamiento para alcanzar a sus enemigos con ataques feroces y muy r√°pidos, utilizando el entorno y contraatacando y lanzado a los oponentes por los aires o hacia otros enemigos. Es un experto detective resolviendo varios asesinatos y cr√≠menes, adem√°s de resolver los acertijos de El Acertijo y descifrar grandes cr√≠menes. Batman es un experto en sigilo derrotando a varios matones armados desde las sombras utilizando t√©cnicas de Ninjutsu, planeando sus ataques y noque√°ndolos por la espalda o desde el suelo, incluso usando gatgets de combate o puntos de ventaja en el entorno.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/b/be/BAK_Batman.png/revision/latest?cb=20150628164709&path-prefix=es",
     "name": "Batman",
     "realName": "Bruce Wayne",
-    "role": "HÈroe",
-    "imageURL": "https://static.wikia.nocookie.net/batman/images/b/be/BAK_Batman.png/revision/latest?cb=20150628164709&path-prefix=es",
-    "description": "Batman, ·lter ego de Bruce Wayne, es el personaje principal de los videojuegos de la serie Arkham. Es un experto en combate cuerpo a cuerpo derrotando a varios matones, soldados, o expertos en combate mano a mano sin ser golpeado utilizando una gran variedad de ataques, contraataques o aturdiÈndolos, teniendo una tÈcnica amplia en sus desplazamiento para alcanzar a sus enemigos con ataques feroces y muy r·pidos, utilizando el entorno y contraatacando y lanzado a los oponentes por los aires o hacia otros enemigos. Es un experto detective resolviendo varios asesinatos y crÌmenes, adem·s de resolver los acertijos de El Acertijo y descifrar grandes crÌmenes. Batman es un experto en sigilo derrotando a varios matones armados desde las sombras utilizando tÈcnicas de Ninjutsu, planeando sus ataques y noque·ndolos por la espalda o desde el suelo, incluso usando gatgets de combate o puntos de ventaja en el entorno."
+    "role": "H√©roe"
   },
   {
+    "description": "El Joker (o El Guas√≥n en Hispanoam√©rica) es el villano principal de Batman en los videojuegos de la serie Arkham. El Joker es una persona que no siente nada por la vida humana, no posee compasi√≥n (cuando est√°n a su merced). Posee una mentalidad retorcida que le permite no sentir culpa o remordimiento tras sus acciones. Le encanta matar a todos, incluso a sus leales secuaces, y relaciona todo con bromas, ya sea la muerte o la vida, es malvado y loco. Idea los planes mas locos y efectivos en cierto modo. Adem√°s es muy inteligente y habilidoso ya que puede manipular a Harley Quinn. Al igual que el Espantap√°jaros, √©l ve el crimen y la muerte como diversi√≥n y no como un negocio.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/4/4c/BAK_Guas%C3%B3n.png/revision/latest?cb=20150629022818&path-prefix=es",
     "name": "Joker",
     "realName": "Desconocido",
-    "role": "Villano",
-    "imageURL": "https://static.wikia.nocookie.net/batman/images/4/4c/BAK_Guas%C3%B3n.png/revision/latest?cb=20150629022818&path-prefix=es",
-    "description": "El Joker (o El GuasÛn en HispanoamÈrica) es el villano principal de Batman en los videojuegos de la serie Arkham. El Joker es una persona que no siente nada por la vida humana, no posee compasiÛn (cuando est·n a su merced). Posee una mentalidad retorcida que le permite no sentir culpa o remordimiento tras sus acciones. Le encanta matar a todos, incluso a sus leales secuaces, y relaciona todo con bromas, ya sea la muerte o la vida, es malvado y loco. Idea los planes mas locos y efectivos en cierto modo. Adem·s es muy inteligente y habilidoso ya que puede manipular a Harley Quinn. Al igual que el Espantap·jaros, Èl ve el crimen y la muerte como diversiÛn y no como un negocio."
+    "role": "Villano"
   },
   {
-    "name": "El Espantap·jaros",
-    "realName": "Jonathan Crane",
-    "role": "Villano",
+    "description": "Al igual que el Joker, el Espantap√°jaros ve el crimen como diversi√≥n y no como un negocio, aunque a diferencia de √©ste, prefiere ver sufrir lenta y dolorosamente a sus v√≠ctimas en ves de matarlas, haci√©ndoles ver sus peores miedos y pesadillas, mientras los golpea fuertemente fuera de sus alucinaciones (como al Sr. Martillo y a Hoz que los tortur√≥ por meses y se los devolvi√≥ al Ping√ºino unidos). Adora ver cuando los fuertes y los temerarios sucumben ante sus miedos y se quiebran ante sus ojos para luego proceder a matarlos (o dejarlos libres pero traumatizados por el miedo de por vida y con da√±os cerebrales de por vida). Posee una inteligencia extraordinaria para la qu√≠mica ya que creo el Gas Del Miedo y pudo hacerlo mas vers√°til para convertirlo en liquido, adem√°s puede causar miedo y manipular la mente humana con sus palabras y su gran experiencia en psicolog√≠a, lo cual prueba que es un experto en el uso de las palabras para influir en las personas.",
     "imageURL": "https://static.wikia.nocookie.net/batman/images/c/cf/BAK_Espantap%C3%A1jaros.png/revision/latest?cb=20150630151909&path-prefix=es",
-    "description": "Al igual que el Joker, el Espantap·jaros ve el crimen como diversiÛn y no como un negocio, aunque a diferencia de Èste, prefiere ver sufrir lenta y dolorosamente a sus vÌctimas en ves de matarlas, haciÈndoles ver sus peores miedos y pesadillas, mientras los golpea fuertemente fuera de sus alucinaciones (como al Sr. Martillo y a Hoz que los torturÛ por meses y se los devolviÛ al Ping¸ino unidos). Adora ver cuando los fuertes y los temerarios sucumben ante sus miedos y se quiebran ante sus ojos para luego proceder a matarlos (o dejarlos libres pero traumatizados por el miedo de por vida y con daÒos cerebrales de por vida). Posee una inteligencia extraordinaria para la quÌmica ya que creo el Gas Del Miedo y pudo hacerlo mas vers·til para convertirlo en liquido, adem·s puede causar miedo y manipular la mente humana con sus palabras y su gran experiencia en psicologÌa, lo cual prueba que es un experto en el uso de las palabras para influir en las personas."
+    "name": "El Espantap√°jaros",
+    "realName": "Jonathan Crane",
+    "role": "Villano"
   },
   {
+    "description": "Jason Todd (tambi√©n conocido como Robin, Arkham Knight y Red Hood) es un antiguo aliado de Batman y uno de los villanos principales del videojuego Batman: Arkham Knight. Como el Arkham Knight, Jason se uni√≥ al Espantap√°jaros para poder concretar su venganza hacia Batman por no haberlo rescatado cuando fue secuestrado por el Joker. A lo largo de la noche de Halloween √©l acecha a su mentor ayudado por decenas de milicianos y un ej√©rcito de drones en una Gotham totalmente vac√≠a. A medida que la noche avanza Jason se deja llevar por su deseo de venganza y muchas veces este le impide concretar las misiones ordenadas por el Espantap√°jaros, por lo que eventualmente termina perdiendo la confianza de su aliado.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/b/b2/Arkham_Knight_Expositor_AK.png/revision/latest?cb=20191227023800&path-prefix=es",
     "name": "Arkham Knight",
     "realName": "Jason Todd",
-    "role": "Villano / Aliado",
-    "imageURL": "",
-    "description": "Jason Todd (tambiÈn conocido como Robin, Arkham Knight y Red Hood) es un antiguo aliado de Batman y uno de los villanos principales del videojuego Batman: Arkham Knight. Como el Arkham Knight, Jason se uniÛ al Espantap·jaros para poder concretar su venganza hacia Batman por no haberlo rescatado cuando fue secuestrado por el Joker. A lo largo de la noche de Halloween Èl acecha a su mentor ayudado por decenas de milicianos y un ejÈrcito de drones en una Ciudad GÛtica totalmente vacÌa. A medida que la noche avanza Jason se deja llevar por su deseo de venganza y muchas veces este le impide concretar las misiones ordenadas por el Espantap·jaros, por lo que eventualmente termina perdiendo la confianza de su aliado."
+    "role": "Villano / Aliado"
   },
   {
+    "description": "Alfred Pennyworth es uno de los aliados de Batman y personaje secundarios de los videojuegos de la serie Arkham. Alfred asegura haber sido un actor consumado antes de entrar a trabajar como mayordomo de la familia Wayne, aunque los informes indican un historial en la inteligencia militar. La actuaci√≥n podr√≠a haber sido una tapadera, o tal vez se tratara de una habilidad √∫til para un oficial de inteligencia. Alfred no aclara nada al respecto, aunque sus amplios conocimientos m√©dicos parecen indicar que es algo m√°s que un comediante. Sigue teniendo problemas para aceptar la doble vida de Bruce Wayne, al que no deja de presionar para que abandone su cruzada en pos de intereses m√°s mundanos.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/0/03/BAK_Alfred.png/revision/latest?cb=20150713143518&path-prefix=es",
     "name": "Alfred",
     "realName": "Alfred Pennyworth",
-    "role": "Aliado",
-    "imageURL": "https://static.wikia.nocookie.net/batman/images/0/03/BAK_Alfred.png/revision/latest?cb=20150713143518&path-prefix=es",
-    "description": "Alfred Pennyworth es uno de los aliados de Batman y personaje secundarios de los videojuegos de la serie Arkham. Alfred asegura haber sido un actor consumado antes de entrar a trabajar como mayordomo de la familia Wayne, aunque los informes indican un historial en la inteligencia militar. La actuaciÛn podrÌa haber sido una tapadera, o tal vez se tratara de una habilidad ˙til para un oficial de inteligencia. Alfred no aclara nada al respecto, aunque sus amplios conocimientos mÈdicos parecen indicar que es algo m·s que un comediante. Sigue teniendo problemas para aceptar la doble vida de Bruce Wayne, al que no deja de presionar para que abandone su cruzada en pos de intereses m·s mundanos."
+    "role": "Aliado"
   },
   {
+    "description": "El Comisionado Gordon es uno de los principales aliados de Batman en los videojuegos de la serie Arkham. Como Comisario de polic√≠a de Gotham City, Gordon comparte el profundo compromiso de Batman de librar a la ciudad del crimen. El personaje se suele retratar como si tuviera plena confianza en Batman e incluso depende un poco de √©l. En muchas historias modernas, es un tanto esc√©ptico con los m√©todos de vigilante de Batman, pero sin embargo cree que Gotham lo necesita. Los dos tienen un respeto mutuo y una amistad t√°cita. Gordon es el padre o el padre adoptivo (dependiendo de la continuidad) de B√°rbara Gordon, la primera Batgirl moderna y la agente de informaci√≥n Oracle.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/b/bf/BAK_Gordon.png/revision/latest?cb=20150628185523&path-prefix=es",
     "name": "Comisario Gordon",
     "realName": "James W. Gordon",
-    "role": "Aliado",
-    "imageURL": "https://static.wikia.nocookie.net/batman/images/b/bf/BAK_Gordon.png/revision/latest?cb=20150628185523&path-prefix=es",
-    "description": "El Comisionado Gordon es uno de los principales aliados de Batman en los videojuegos de la serie Arkham. Como Comisario de policÌa de Gotham City, Gordon comparte el profundo compromiso de Batman de librar a la ciudad del crimen. El personaje se suele retratar como si tuviera plena confianza en Batman e incluso depende un poco de Èl. En muchas historias modernas, es un tanto escÈptico con los mÈtodos de vigilante de Batman, pero sin embargo cree que Gotham lo necesita. Los dos tienen un respeto mutuo y una amistad t·cita. Gordon es el padre o el padre adoptivo (dependiendo de la continuidad) de B·rbara Gordon, la primera Batgirl moderna y la agente de informaciÛn Oracle."
+    "role": "Aliado"
   },
   {
+    "description": "Nightwing es uno de los principales aliados de Batman en los videojuegos de la serie Arkham. Como no posee superpoderes como otros h√©roes, Dick Grayson lo compensa al recurrir a la m√°xima fuerza y resistencia atl√©ticas de un hombre en sus veinte a√±os que se dedica regularmente al ejercicio f√≠sico intenso. Sus habilidades en las artes marciales rivalizan a las de Batman. Fue entrenado rigurosamente por su mentor desde el escapismo hasta la criminolog√≠a, la esgrima, el sigilo, el disfraz, y muchas otras disciplinas de combate. Nightwing es un maestro de una media docena de disciplinas de artes marciales (incluyendo tanto combate armado como eskrima como desarmado en aikido savate judo y capoeira). √âl tambi√©n lleva varias decenas de batarangs modificados junto con c√°psulas de gas.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/b/bc/Nightwing_Arkham_Knight_Expositor.png/revision/latest?cb=20191228193212&path-prefix=es",
     "name": "Nightwing",
     "realName": "Richard John \"Dick\" Grayson",
-    "role": "HÈroe",
-    "imageURL": "https://static.wikia.nocookie.net/batman/images/b/bc/Nightwing_Arkham_Knight_Expositor.png/revision/latest?cb=20191228193212&path-prefix=es",
-    "description": "Nightwing es uno de los principales aliados de Batman en los videojuegos de la serie Arkham. Como no posee superpoderes como otros hÈroes, Dick Grayson lo compensa al recurrir a la m·xima fuerza y resistencia atlÈticas de un hombre en sus veinte aÒos que se dedica regularmente al ejercicio fÌsico intenso. Sus habilidades en las artes marciales rivalizan a las de Batman. Fue entrenado rigurosamente por su mentor desde el escapismo hasta la criminologÌa, la esgrima, el sigilo, el disfraz, y muchas otras disciplinas de combate. Nightwing es un maestro de una media docena de disciplinas de artes marciales (incluyendo tanto combate armado como eskrima como desarmado en aikido savate judo y capoeira). …l tambiÈn lleva varias decenas de batarangs modificados junto con c·psulas de gas."
+    "role": "H√©roe"
   },
   {
-    "name": "Or·culo",
-    "realName": "B·rbar Gordon",
-    "role": "Aliada",
+    "description": "Barbara Gordon es una joven que con el nombre en clave de Batgirl y m√°s tarde como Or√°culo tras perder la movilidad en las piernas, lucha contra el crimen como uno de los aliados de Batman en los videojuegos de la serie Arkham. Barbara es la hija de James Gordon, capit√°n del Cuerpo de Polic√≠a de Gotham. Pese a sus 15 a√±os, tiene una comprensi√≥n notablemente madura del funcionamiento de la ciudad y de su corrupci√≥n. Es una de las pocas personas que parece entender los objetivos de Batman y que apoya sus esfuerzos. Su empe√±o en intentar exponer la corrupci√≥n podr√≠a llegar a ocasionarle problemas. Hay que vigilarla de cerca, por su propia seguridad.",
     "imageURL": "https://static.wikia.nocookie.net/batman/images/c/c8/BAK_Barbara.png/revision/latest?cb=20150630154327&path-prefix=es",
-    "description": "Barbara Gordon es una joven que con el nombre en clave de Batgirl y m·s tarde como Or·culo tras perder la movilidad en las piernas, lucha contra el crimen como uno de los aliados de Batman en los videojuegos de la serie Arkham. Barbara es la hija de James Gordon, capit·n del Cuerpo de PolicÌa de Ciudad GÛtica. Pese a sus 15 aÒos, tiene una comprensiÛn notablemente madura del funcionamiento de la ciudad y de su corrupciÛn. Es una de las pocas personas que parece entender los objetivos de Batman y que apoya sus esfuerzos. Su empeÒo en intentar exponer la corrupciÛn podrÌa llegar a ocasionarle problemas. Hay que vigilarla de cerca, por su propia seguridad."
+    "name": "Or√°culo",
+    "realName": "B√°rbar Gordon",
+    "role": "Aliada"
   },
   {
+    "description": "Robin es el compa√±ero de Batman y uno de sus aliados en los videojuegos de la serie Arkham. Robin tiene un estilo de lucha muy similar al de Batman, ya que fue entrenado por √©l mismo. Combina los mismos movimientos √°giles y piruetas, y los ataques a sus enemigos los ejecuta con la misma ferocidad que el h√©roe murci√©lago. La diferencia con Batman se produce en la inclusi√≥n de un palo b√≥ extensible al arsenal de combate de Robin, con el que golpea y aturde a los enemigos y tiene integrado varios gadgets.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/2/27/BAK_Robin.png/revision/latest?cb=20150706041848&path-prefix=es",
     "name": "Robin",
     "realName": "Timothy \"Tim\" Drake",
-    "role": "HÈroe",
-    "imageURL": "https://static.wikia.nocookie.net/batman/images/2/27/BAK_Robin.png/revision/latest?cb=20150706041848&path-prefix=es",
-    "description": "Robin es el compaÒero de Batman y uno de sus aliados en los videojuegos de la serie Arkham. Robin tiene un estilo de lucha muy similar al de Batman, ya que fue entrenado por Èl mismo. Combina los mismos movimientos ·giles y piruetas, y los ataques a sus enemigos los ejecuta con la misma ferocidad que el hÈroe murciÈlago. La diferencia con Batman se produce en la inclusiÛn de un palo bo extensible al arsenal de combate de Robin, con el que golpea y aturde a los enemigos y tiene integrado varios gadgets."
+    "role": "H√©roe"
   },
   {
+    "description": "Lucius Fox es el director de Wayne Enterprises, y uno de los mayores aliados de Batman. √âl es el encargado de proveerle al h√©roe la mayor√≠a de los gadgets que utiliza para combatir al crimen. Es un personaje secundario de los videojuegos de la serie Arkham.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/4/4b/BAK_Lucius.png/revision/latest?cb=20150721030627&path-prefix=es",
     "name": "Lucius Fox",
     "realName": "Lucius Fox",
-    "role": "Aliado",
-    "imageURL": "https://static.wikia.nocookie.net/batman/images/4/4b/BAK_Lucius.png/revision/latest?cb=20150721030627&path-prefix=es",
-    "description": "Lucius Fox es el director de Wayne Enterprises, y uno de los mayores aliados de Batman. …l es el encargado de proveerle al hÈroe la mayorÌa de los gadgets que utiliza para combatir al crimen. Es un personaje secundario de los videojuegos de la serie Arkham."
+    "role": "Aliado"
   },
   {
+    "description": "Hiedra Venenosa es una de las villanas principales, y en √∫ltima instancia una aliada de la serie de videojuegos Arkham. Es una bot√°nica de Gotham City que est√° obsesionada con las plantas, la extinci√≥n ecol√≥gica y el ecologismo. Ivy normalmente usa un traje verde de una sola pieza adornado con hojas y, a menudo, tiene vides de plantas que se extienden sobre sus extremidades. Ella usa toxinas vegetales y feromonas que controlan la mente para sus actividades delictivas, que generalmente est√°n dirigidas a proteger especies en peligro de extinci√≥n y el entorno natural.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/b/b4/BAK_Hiedra.png/revision/latest?cb=20150630160917&path-prefix=es",
     "name": "Hiedra Venenosa",
     "realName": "Pamela Lillian Isley",
-    "role": "Villana",
-    "imageURL": "https://static.wikia.nocookie.net/batman/images/b/b4/BAK_Hiedra.png/revision/latest?cb=20150630160917&path-prefix=es",
-    "description": "Hiedra Venenosa es una de las villanas principales, y en ˙ltima instancia una aliada de la serie de videojuegos Arkham. Es una bot·nica de Gotham City que est· obsesionada con las plantas, la extinciÛn ecolÛgica y el ecologismo. Ivy normalmente usa un traje verde de una sola pieza adornado con hojas y, a menudo, tiene vides de plantas que se extienden sobre sus extremidades. Ella usa toxinas vegetales y feromonas que controlan la mente para sus actividades delictivas, que generalmente est·n dirigidas a proteger especies en peligro de extinciÛn y el entorno natural."
+    "role": "Villana"
   },
   {
+    "description": "Harley Quinn es uno de las villanas que aparecen en la serie de videojuegos Arkham. Ella, al igual en otras historias, es la leal secuaz del Joker. No tiene compasi√≥n ni aprecio por la vida humana, es posible que no nos parezca muy inteligente ya que el Joker la manipula a su antojo, pero en realidad es una Doctora prestigiosa especializada en el campo de la mente. Tras conocer al Joker, sus sentimiento fueron evolucionando hasta sentir devoci√≥n por √©l. El Joker retorci√≥ la brillante y vulnerable mente de Harleen, hasta hacer de ella la villana que todos conocemos.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/0/01/BAK_Harley.png/revision/latest?cb=20150722042751&path-prefix=es",
     "name": "Harley Quinn",
     "realName": "Harleen Frances Quinzel",
-    "role": "Villana",
-    "imageURL": "https://static.wikia.nocookie.net/batman/images/0/01/BAK_Harley.png/revision/latest?cb=20150722042751&path-prefix=es",
-    "description": "Harley Quinn es uno de las villanas que aparecen en la serie de videojuegos Arkham. Ella, al igual en otras historias, es la leal secuaz del Joker. No tiene compasiÛn ni aprecio por la vida humana, es posible que no nos parezca muy inteligente ya que el Joker la manipula a su antojo, pero en realidad es una Doctora prestigiosa especializada en el campo de la mente. Tras conocer al Joker, sus sentimiento fueron evolucionando hasta sentir devociÛn por Èl. El Joker retorciÛ la brillante y vulnerable mente de Harleen, hasta hacer de ella la villana que todos conocemos."
+    "role": "Villana"
   },
   {
+    "description": "El fiscal de Distrito Harvey Dent fue uno de los m√°s poderosos aliados de Batman en la lucha con las mafias. Sin embargo, cuando un atentado arruino su vida, √©l paso a convertirse en Dos Caras, un criminal obsesionado con todo lo dual. √âl es uno de los villanos de la Serie Arkham. En el pasado fue un sobresaliente fiscal de distrito de Gotham City, Harvey Dent est√° marcado horriblemente en el lado izquierdo de su cara despu√©s que el jefe de la mafia Sal Maroni lanza productos qu√≠micos √°cidos en √©l durante un juicio en la corte. Posteriormente, se vuelve loco y adopta la personalidad de Dos Caras, convirti√©ndose en un criminal obsesionado con la dualidad y el conflicto entre el bien y el mal.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/1/12/BAK_Caras.png/revision/latest?cb=20150727032513&path-prefix=es",
     "name": "Dos Caras",
     "realName": "Harvey Dent",
-    "role": "Villano",
-    "imageURL": "https://static.wikia.nocookie.net/batman/images/1/12/BAK_Caras.png/revision/latest?cb=20150727032513&path-prefix=es",
-    "description": "El fiscal de Distrito Harvey Dent fue uno de los m·s poderosos aliados de Batman en la lucha con las mafias. Sin embargo, cuando un atentado arruino su vida, Èl paso a convertirse en Dos Caras, un criminal obsesionado con todo lo dual. …l es uno de los villanos de la Serie Arkham. En el pasado fue un sobresaliente fiscal de distrito de Gotham City, Harvey Dent est· marcado horriblemente en el lado izquierdo de su cara despuÈs que el jefe de la mafia Sal Maroni lanza productos quÌmicos ·cidos en Èl durante un juicio en la corte. Posteriormente, se vuelve loco y adopta la personalidad de Dos Caras, convirtiÈndose en un criminal obsesionado con la dualidad y el conflicto entre el bien y el mal."
+    "role": "Villano"
   },
   {
-    "name": "El Ping¸ino",
-    "realName": "Oswald Chesterfield Cobblepot",
-    "role": "Villano",
+    "description": "Oswald Cobblepot, apodado el Ping√ºino, es uno de los villanos principales de los videojuegos de la serie Arkham. El Ping√ºino dirige un mercado negro en su barco, el Final Offer. Cobblepot posee los mejores contactos del submundo criminal de Gotham y si se cierra un trato en alguna parte de la ciudad, √©l lo sabe y, posiblemente, este involucrado. Tiene cuidado con su participaci√≥n en las actividades de su banda, para evitar ser relacionado directamente con sus cr√≠menes. Aunque no supone una gran amenaza f√≠sica, porta armas ocultas y siempre va acompa√±ado por un gran n√∫mero de matones que lo protegen.",
     "imageURL": "https://static.wikia.nocookie.net/batman/images/e/eb/El-pinguino.jpg/revision/latest?cb=20131122134922&path-prefix=es",
-    "description": "Oswald Cobblepot, apodado el Ping¸ino, es uno de los villanos principales de los videojuegos de la serie Arkham. El Ping¸ino dirige un mercado negro en su barco, el Final Offer. Cobblepot posee los mejores contactos del submundo criminal de GÛtica y si se cierra un trato en alguna parte de la ciudad, Èl lo sabe y, posiblemente, este involucrado. Tiene cuidado con su participaciÛn en las actividades de su banda, para evitar ser relacionado directamente con sus crÌmenes. Aunque no supone una gran amenaza fÌsica, porta armas ocultas y siempre va acompaÒado por un gran n˙mero de matones que lo protegen."
+    "name": "El Ping√ºino",
+    "realName": "Oswald Chesterfield Cobblepot",
+    "role": "Villano"
   },
   {
+    "description": "Simon Stagg es el director de industrias Stagg, una compa√±√≠a especializada en investigaci√≥n m√©dica avanza y desarrollo. √âl es uno de los villanos secundarios de la serie Arkham. Stagg en un principio experimentaba sus pruebas con simios. Se los puede ver en los dirigibles encerrados en laboratorios y a traves de ellos podemos conseguir trofeos del acertijo. Al no alcanzar los resultados que el quer√≠a pas√≥ a experimentar los efectos del aguacero en humanos.",
+    "imageURL": "https://static.wikia.nocookie.net/batman/images/c/c3/BAK_Simon_Stagg.png/revision/latest?cb=20150713142207&path-prefix=es",
     "name": "Simon Stagg",
     "realName": "Simon Stagg",
-    "role": "Villano",
-    "imageURL": "https://static.wikia.nocookie.net/batman/images/c/c3/BAK_Simon_Stagg.png/revision/latest?cb=20150713142207&path-prefix=es",
-    "description": "Simon Stagg es el director de industrias Stagg, una compaÒÌa especializada en investigaciÛn mÈdica avanza y desarrollo. …l es uno de los villanos secundarios de la serie Arkham. Stagg en un principio experimentaba sus pruebas con simios. Se los puede ver en los dirigibles encerrados en laboratorios y a traves de ellos podemos conseguir trofeos del acertijo. Al no alcanzar los resultados que el querÌa pasÛ a experimentar los efectos del aguacero en humanos."
+    "role": "Villano"
   }
 ]
