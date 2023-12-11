@@ -5,25 +5,47 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:padding="15sp"
     tools:context=".ContactActivity">
 
-    <TextView
-        android:id="@+id/textView2"
+    <EditText
+        android:id="@+id/contactName"
         android:layout_width="match_parent"
-        android:layout_height="30dp"
-        android:text="@string/contact_text"
-        android:textSize="20sp"
-        android:textAlignment="center"
-        android:layout_marginTop="75dp"/>
+        android:layout_height="50dp"
+        android:inputType="text"
+        android:layout_marginTop="15dp"
+        android:hint="@string/placeholder_name" />
 
-    <TextView
-        android:id="@+id/textView"
+    <EditText
+        android:id="@+id/contactEmail"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="25dp"
+        android:hint="@string/placeholder_email" />
+
+    <EditText
+        android:id="@+id/contactSubject"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:inputType="textEmailSubject"
+        android:layout_marginTop="25dp"
+        android:hint="@string/placeholder_subject" />
+
+    <EditText
+        android:id="@+id/contactMessage"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/contact_email"
-        android:textSize="16sp"
-        android:textStyle="bold"
-        android:textAlignment="center"
-        android:layout_marginTop="15dp"/>
+        android:inputType="text"
+        android:layout_marginTop="25dp"
+        android:gravity="top"
+        android:hint="@string/placeholder_message" />
+
+    <Button
+        android:id="@+id/submitButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:text="@string/submit" />
 
 </LinearLayout>
