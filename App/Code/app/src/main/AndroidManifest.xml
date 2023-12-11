@@ -17,19 +17,23 @@
         <activity
             android:name=".ContactActivity"
             android:exported="false"
-            android:parentActivityName=".MyMainActivity"/>
+            android:parentActivityName=".MyMainActivity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".CharacterSelectionActivity"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".CharacterInfoActivity"
             android:exported="false"
-            android:parentActivityName=".CharacterSelectionActivity" />
+            android:parentActivityName=".CharacterSelectionActivity"
+            android:screenOrientation="portrait"/>
         <activity
             android:name=".MyMainActivity"
             android:exported="true"
             android:label="@string/title_activity_my_main"
-            android:theme="@style/Theme.SemperesaAndroid">
+            android:theme="@style/Theme.SemperesaAndroid"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
