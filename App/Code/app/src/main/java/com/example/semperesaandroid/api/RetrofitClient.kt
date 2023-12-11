@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 // Retrofit client for making network requests
 object RetrofitClient {
     private val retrofit = Retrofit.Builder()
-        .baseUrl("https://semperesaandroid.free.beeceptor.com")
+        .baseUrl("https://semperesa-android-default-rtdb.firebaseio.com/")
         .addConverterFactory(GsonConverterFactory.create())
         .build()
 

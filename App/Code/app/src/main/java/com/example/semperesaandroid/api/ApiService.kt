@@ -5,6 +5,6 @@ import retrofit2.http.GET
 
 // Retrofit interface for fetching heroes data
 interface ApiService {
-    @GET("/characters")
+    @GET("/characters.json")
     suspend fun getCharacters(): List<Character>
 }
