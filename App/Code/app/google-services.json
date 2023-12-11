@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "436829444759",
+    "firebase_url": "https://semperesa-android-default-rtdb.firebaseio.com",
+    "project_id": "semperesa-android",
+    "storage_bucket": "semperesa-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436829444759:android:ec803f5d283bf9dfb967d2",
+        "android_client_info": {
+          "package_name": "com.example.semperesaandroid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapY887DSgt3kMm5iH49rrUVmXFO5xNN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

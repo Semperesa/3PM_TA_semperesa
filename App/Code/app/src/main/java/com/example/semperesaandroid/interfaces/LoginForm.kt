@@ -96,6 +96,7 @@ data class Credentials(
 
 fun checkCredentials(credentials : Credentials, context : Context) {
     if(credentials.isNotEmpty() && credentials.username == "Batman" && credentials.password == "1234") {
+        Toast.makeText(context, "Welcome to Gotham", Toast.LENGTH_LONG).show()
         context.startActivity(Intent(context, CharacterSelectionActivity::class.java))
         (context as Activity).finish()
     } else {
