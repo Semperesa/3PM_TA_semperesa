@@ -1,5 +1,6 @@
 package com.example.semperesaandroid
 
+import android.app.Activity
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.ViewGroup
@@ -11,6 +12,8 @@ class CharacterInfoActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_character_info)
 
+        // Show button on the nav bar to go to the previous activity
+        supportActionBar!!.setDisplayHomeAsUpEnabled(true)
 
         /*val crashButton = Button(this)
         crashButton.text = "Test Crash"
