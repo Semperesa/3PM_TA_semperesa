@@ -3,6 +3,7 @@ package com.example.semperesaandroid
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Toast
 import com.example.semperesaandroid.character.Character
 import com.example.semperesaandroid.character.CharacterSelectionListener
@@ -17,7 +18,7 @@ class CharacterSelectionActivity : AppCompatActivity(), CharacterSelectionListen
         // Save Name - SharedPreferences
         val sharedPreferences = getSharedPreferences("MyCharacterSharedPref", MODE_PRIVATE)
         val editor = sharedPreferences.edit()
-        editor.putString("hero_key", character.name);
+        editor.putString("character_key", character.name);
         editor.apply()
 
         // Toast
@@ -29,6 +30,7 @@ class CharacterSelectionActivity : AppCompatActivity(), CharacterSelectionListen
             putExtra("character_real_name", character.realName)
             putExtra("character_role", character.role)
             putExtra("character_description", character.description)
+            putExtra("character_image", character.imageURL)
         }
         this.startActivity(intent)
     }
