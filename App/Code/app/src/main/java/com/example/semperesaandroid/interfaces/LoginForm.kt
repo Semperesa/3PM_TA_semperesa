@@ -46,6 +46,7 @@ import androidx.compose.ui.text.input.VisualTransformation
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.semperesaandroid.CharacterSelectionActivity
+import com.example.semperesaandroid.ContactActivity
 import com.example.semperesaandroid.ui.theme.SemperesaTheme
 
 @Composable
@@ -58,7 +59,9 @@ fun LoginForm() {
         Column (
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally,
-            modifier = Modifier.fillMaxSize().padding(horizontal = 30.dp)
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(horizontal = 30.dp)
         ) {
             UsernameField(
                 value = credentials.username,
@@ -80,6 +83,14 @@ fun LoginForm() {
             ) {
                 Text("Log In")
             }
+            Button(
+                onClick = { openContactActivity(context) },
+                enabled = true,
+                shape = RoundedCornerShape(5.dp),
+                modifier = Modifier.fillMaxWidth()
+            ) {
+                Text("Contact")
+            }
         }
     }
 }
@@ -98,10 +109,13 @@ fun checkCredentials(credentials : Credentials, context : Context) {
     if(credentials.isNotEmpty() && credentials.username == "Batman" && credentials.password == "1234") {
         Toast.makeText(context, "Welcome to Gotham", Toast.LENGTH_LONG).show()
         context.startActivity(Intent(context, CharacterSelectionActivity::class.java))
-        (context as Activity).finish()
     } else {
         Toast.makeText(context, "Wrong Username or Password", Toast.LENGTH_LONG).show()
     }
+}
+
+fun openContactActivity(context: Context) {
+    context.startActivity(Intent(context, ContactActivity::class.java))
 }
 
 @Composable
