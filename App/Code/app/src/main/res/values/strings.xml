@@ -6,4 +6,6 @@
     <string name="login_button">Log In</string>
     <string name="image_content_description">Game Character</string>
     <string name="characters_fragment">Batman Characters</string>
+    <string name="contact_text">You can contact me at</string>
+    <string name="contact_email">semperesa@esat-alumni.com</string>
 </resources>
