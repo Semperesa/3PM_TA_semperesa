@@ -1,0 +1,5 @@
+Hola ChatGPT, puedes escribirme una introducción hablando de Android y su ecosistema? Por favor, incluye las diferentes versiones de Android que existen. Escríbelo en inglés, por favor.
+
+Puedes hacerme un resumen de cómo se usan y para qué sirven los test unitarios de Android Studio? Por favor, escríbelo en inglés, gracias.
+
+Puedes hacerme un resumen de varios patrones de desarrollo de código fuente? Por favor incluye por lo menos tres de ellos, gracias. Puedes escribirlo en inglés? Gracias.
