@@ -1,0 +1,3 @@
+¿Puedes escribir una introducción hablando de iOS y su ecosistema? Menciona todas las versiones existentes de iOS. Escríbelo en inglés. Gracias.
+
+¿Puedes escribir una comparativa que explique las características de Android Studio y XCode? Menciona sus funciones y usos y explica la relación entre ellos así como sus respectivos lenguajes de programación. Escríbelo en inglés. Gracias.
